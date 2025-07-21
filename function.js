@@ -246,4 +246,4 @@ getnumber();
 // }
 //add new feature to js to learn the github commands
 let namE = 'repo';
-console.log(namE);
+console.log("hello", namE);
